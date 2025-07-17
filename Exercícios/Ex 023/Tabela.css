@@ -1,0 +1,28 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td{
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    padding: 8px;
+}
+tr.row{
+    background-color: pink;
+}
+table{
+    width: 400px;
+    border-collapse: collapse;
+    height: 400px;
+}
+td.dado{
+    background-color: rgb(85, 87, 207);
+}
+.numero{
+    text-align: left;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 30px;
+}

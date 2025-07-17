@@ -1,0 +1,17 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+table{
+    border-collapse: collapse;
+    width: 300px;
+}
+td{
+    border: 1px solid pink;
+    padding: 10px;
+    text-align: center;
+}

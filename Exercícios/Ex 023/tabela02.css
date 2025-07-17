@@ -1,0 +1,44 @@
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: black;
+}
+table{
+    position: relative;
+    width: 500px;
+    border-collapse: collapse;
+}
+thead>tr>th{
+    position: sticky;
+    top: 0;
+    background-color: pink;
+}
+td,th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th.scope{
+    width: 50px;
+}
+thead{
+    background-color: pink;
+    color: rgb(199, 51, 236);
+}
+tfoot{
+    background-color: pink;
+    color: rgb(199, 51, 236)
+}
+caption{
+    font-size: medium;
+    font-weight: 100;
+    padding: 10px;
+    background-color: pink;
+    color: rgb(199, 51, 236)
+}
+td.num{
+    text-align: right;
+}
+tbody>tr:nth-child(2n){
+    background-color:  pink;
+}

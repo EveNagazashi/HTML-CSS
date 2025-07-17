@@ -1,0 +1,16 @@
+tr,td{
+    border: 1px solid pink;
+    text-align: center;
+    vertical-align: middle;
+    align-position: right;
+}
+table{
+    width: 300px;
+    border-collapse: collapse;
+}
+a{
+    color: black;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
