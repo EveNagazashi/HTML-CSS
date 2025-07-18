@@ -1,0 +1,16 @@
+tr,th,td{
+    text-align: center;
+    vertical-align: middle;
+    aling-position: right;
+    border: 1px solid pink;
+}
+tbody, thead,tfoot{
+    text-align: center;
+    vertical-align: middle;
+    aling-position: right;
+    border: 1px solid pink;
+}
+table{
+    width: 300px;
+    border-collapse: collapse;
+}
