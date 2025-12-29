@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+thead, .materia{
+    background-color: pink;
+}
+td,tr,th{
+    vertical-align: middle;
+    text-align: center;
+    border: 1px pink solid;
+    align-items: right;
+}
+table{
+    border-collapse: collapse;
+    width: 400px;
+    margin: auto;
+}
+.notas-header{
+    text-align: center;
+    padding: 10px;
+}
+.nota-header{
+ padding: 8px;
+ 
+}
