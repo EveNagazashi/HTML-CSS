@@ -14,3 +14,8 @@ table{
     width: 300px;
     border-collapse: collapse;
 }
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 30px;
+}
