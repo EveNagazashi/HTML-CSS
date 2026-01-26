@@ -5,6 +5,21 @@
 }
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+h1{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.verde{
+    background-color: red;
+}
+.bege{
+    background-color: beige;
+}
+.pink{
+    background-color: rgb(152, 190, 240);
 }
 a p{
     display: inline-block;
@@ -16,6 +31,7 @@ a p{
     padding: 2px;
     background-color: aliceblue;
     color: black;
+    margin: 0 auto;
 }
 a p:hover{
  background: linear-gradient(to right, pink, rgb(74, 74, 179));

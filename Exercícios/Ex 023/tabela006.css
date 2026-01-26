@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+  border-collapse: collapse;
+  width: 600px;
+}
+tr,th{
+    border: 1px solid pink;
+    text-align: center;
+    padding: 5px;
+}
+a p{
+    display: inline-block;
+    position: relative;
+    top:14px;
+    border-radius: 6px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    padding: 2px;
+    background-color: aliceblue;
+    color: black;
+    margin: 0 auto;
+}
+a p:hover{
+    background: linear-gradient(to right, pink, rgb(74, 74, 179));
+}
